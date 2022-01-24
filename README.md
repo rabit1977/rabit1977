@@ -47,10 +47,8 @@
   <summary>:zap: GitHub Stats</summary>
   <br />
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rabit1977&show_icons=true&theme=radical" />
-<div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabit1977&layout=compact"/>
-</div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rabit1977&show_icons=true" />
+
  
 
 <br />
