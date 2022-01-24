@@ -5,7 +5,7 @@
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
-- 🔭 I just launched my first course: [Become a Full Stack ReactSuperHero !]['*']!
+- 🔭 I will create some Premium open source repositories  Like-courses: [Become a Full Stack ReactSuperHero !]['*']!
 - 🌱 I’m currently learning everything - but mostly React-Node-JavaScript-MongoDB-Firebase🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
