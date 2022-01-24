@@ -49,10 +49,10 @@
 
 <!--   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rabit1977&count_private-true&show_icons=true" /> -->
   
-  <a href="https://github.com/rabit1977/rabit1977">
+  <a display="flex" href="https://github.com/rabit1977/Auth0-Nextjs-example">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rabit1977&count_private-true&show_icons=true" />
 </a>
-<a href="https://github.com/rabit1977/rabit1977">
+<a href="https://github.com/rabit1977/Auth0-Nextjs-example">
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabit1977&layout=compact"(https://github.com/rabit1977/Auth0-Nextjs-example) />
 </a>
   
