@@ -44,20 +44,6 @@
 <br />
 
 ---
-  <summary>:zap: GitHub Stats</summary>
-  <br />
-
-<!--   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rabit1977&count_private-true&show_icons=true" /> -->
-  
-  <a display="flex-inline" href="https://github.com/rabit1977/Auth0-Nextjs-example">
-  <img  src="https://github-readme-stats.vercel.app/api?username=rabit1977&count_private-true&show_icons=true" />
-</a>
-<a display="flex-inline" href="https://github.com/rabit1977/Auth0-Nextjs-example">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabit1977&layout=compact"(https://github.com/rabit1977/Auth0-Nextjs-example) />
-</a>
-  
-  
-
 
 [website]: https://
 [course]: https://
