@@ -43,7 +43,7 @@
 <br />
 <br />
 
-<div display="flex">
+
   <summary>:zap: GitHub Stats</summary>
   <br />
   <div href="https://github.com/anuraghazra/github-readme-stats">
@@ -52,7 +52,7 @@
 <div">
   <img align="right" ![Top Langs] src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabit1977&layout=compact" />
 </div>
-  </div>
+ 
 
 <br />
 <br />
