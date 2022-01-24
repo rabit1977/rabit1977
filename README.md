@@ -49,6 +49,10 @@
   <img align="left" alt="ReactMaster GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rabit1977&show_icons=true&hide_border=true" />
 
 </details>
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1977&layout=compact)](https://github.com/rabit1977/github-readme-stats)
 ---
 
 ### 📺 Latest YouTube Videos
