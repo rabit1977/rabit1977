@@ -46,11 +46,10 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="ReactMaster GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rabit1977&show_icons=true&theme=radical" />
+  <img align="left" alt="ReactMaster GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rabit1977&count_private=true&show_icons=true&theme=radical" />
 
 </details>
-<br />
-<br />
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabit1977&layout=compact)
 ---
