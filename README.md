@@ -6,10 +6,10 @@
 ## I'm a Husband, Father, Developer, and Teacher!!
 
 - 🔭 I just launched my first course: [Become a Full Stack ReactSuperHero !]['*']!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything - but mostly React-Node-JavaScript-MongoDB-Firebase🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to read and walk.
 
 ### Connect with me:
 
