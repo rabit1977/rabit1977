@@ -52,7 +52,7 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1977&layout=compact)](https://github.com/rabit1977/rabit1977)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1977&layout=compact)](https://github.com/rabit1977/)
 ---
 
 ### 📺 Latest YouTube Videos
