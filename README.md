@@ -49,7 +49,7 @@
 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rabit1977&count_private-true&show_icons=true" />
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabit1977&layout=compact)](https://github.com/rabit1977/FullStack-MERN-Bootcamp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rabti1977&repo=rabit1977)](https://github.com/)
   
 
 
