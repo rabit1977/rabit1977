@@ -43,7 +43,7 @@
 <br />
 <br />
 
-<div>
+<div display="flex">
   <summary>:zap: GitHub Stats</summary>
   <br />
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -54,6 +54,8 @@
 </a>
   </div>
 
+<br />
+<br />
 
 ---
 
