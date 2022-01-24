@@ -53,7 +53,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rabit1977&count_private-true&show_icons=true" />
 </a>
 <a href="https://github.com/rabit1977/rabit1977">
-  [![Top Langs] <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"(https://github.com/anuraghazra/github-readme-stats) />]
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"(https://github.com/rabit1977/Auth0-Nextjs-example) />
 </a>
   
   
