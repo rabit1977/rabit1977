@@ -49,7 +49,7 @@
 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rabit1977&count_private-true&show_icons=true" />
   
-[![Rabit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rabit1977)](https://github.com/rabit1977/rabit1977)
+[![Rabit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rabit1977)](https://github.com/rabit1977)
 
 [website]: https://
 [course]: https://
