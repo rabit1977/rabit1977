@@ -46,12 +46,12 @@
 <div display="flex">
   <summary>:zap: GitHub Stats</summary>
   <br />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <div href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rabit1977&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+</div>
+<div">
   <img align="right" ![Top Langs] src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabit1977&layout=compact" />
-</a>
+</div>
   </div>
 
 <br />
