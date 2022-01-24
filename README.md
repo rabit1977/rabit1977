@@ -47,7 +47,14 @@
   <summary>:zap: GitHub Stats</summary>
   <br />
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rabit1977&show-owner=true&count_private-true&show_icons=true" />
+<!--   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rabit1977&count_private-true&show_icons=true" /> -->
+  
+  <a href="https://github.com/rabit1977/rabit1977">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rabit1977&count_private-true&show_icons=true" />
+</a>
+<a href="https://github.com/rabit1977/rabit1977">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
   
   
 
