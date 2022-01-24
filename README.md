@@ -49,7 +49,7 @@
 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rabit1977&count_private=true&show_icons=true&theme=radical" />
 <div>
-  <img align="right"[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabit1977&layout=compact)](https://github.com/rabit1977/github-readme-stats)/>
+  <img align="right"[![Top Langs] src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabit1977&layout=compact"](https://github.com/rabit1977/github-readme-stats)/>
 </div>
  
 
