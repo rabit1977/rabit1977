@@ -30,7 +30,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align="left" alt="React" width="26px" height='26px' src="[https://www.google.com/imgres?imgurl=https%3A%2F%2Freactnative.dev%2Fimg%2Fheader_logo.svg&tbnid=NHEC8ThBQMNPAM&vet=12ahUKEwjo_YOX69n-AhUPs6QKHcKHBfgQMygCegUIARDDAQ..i&imgrefurl=https%3A%2F%2Freactnative.dev%2Fdocs%2Fimagebackground&docid=Yj7oh8b6QsIPgM&w=800&h=696&itg=1&q=react%20url%20image&ved=2ahUKEwjo_YOX69n-AhUPs6QKHcKHBfgQMygCegUIARDDAQ](https://www.codeplusinfo.com/wp-content/uploads/2020/02/react-native-logo-e1581157043920.png)" />][react]
 [<img align="left" alt="Gatsby" width="26px"  src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
+[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][graphql]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
@@ -42,6 +42,7 @@
 <br />
 
 ---
+[graphql]: https://graphql.org/
 [nodejs]: https://nodejs.org/en
 [vscode]: https://code.visualstudio.com
 [website]: https://
