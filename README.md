@@ -53,4 +53,4 @@
 [jsplaylist]: https://www.youtube.com/
 [cssplaylist]: https://www.youtube.com/
 [reactplaylist]: https://www.youtube.com/
-[html}: https://www.w3schools.com/html
+[html]: https://www.w3schools.com/html
